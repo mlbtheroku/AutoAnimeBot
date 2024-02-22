@@ -14,4 +14,4 @@ motor
 dnspython
 opencv-python-headless
 aiofiles
-techzapi
+techzapix
